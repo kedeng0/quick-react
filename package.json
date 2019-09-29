@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "firebase": "^7.0.0",
-    "rbx": "^2.2.0"
+    "rbx": "^2.2.0",
+    "react-firebaseui": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
